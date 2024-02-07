@@ -6,7 +6,7 @@
 
 | STACK        | LOGO                                                                                                                            | EXPERIENCE |
 |--------------|---------------------------------------------------------------------------------------------------------------------------------|------------|
-| Keras        | ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)                       | Обучение моделей как самостоятельно построенных, так и предобученных, мониторинг обучения с помощью коллбэков, использование TensorBoard в задачах NLP.             |
+| Keras        | ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)                       | Обучение моделей как самостоятельно построенных, так и предобученных (BERT, xlm-roBERTa, мониторинг обучения с помощью коллбэков, использование TensorBoard в задачах NLP (классификация документов, задача NER).             |
 | Matplotlib   | ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)        | Использование библиотеки для визуализации данных и EDA            |
 | mlflow       | ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue)                      |            |
 | NumPy        | ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)                       |            |
@@ -18,6 +18,8 @@
 | TensorFlow   | ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)        |            |
 | NLTK         | ![NLTK](https://www.educba.com/academy/wp-content/uploads/2019/08/NLTK.png)                                                     |            |
 | AirFlow      | ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)|           |
+| XGBoost      | ![XGBoost](https://i.ytimg.com/vi/05djBSOs1FA/hqdefault.jpg)                                                                    |            |
+| CatBoost     | ![CatBoost](https://avatars.mds.yandex.net/get-entity_search/5503081/551872784/S122x122Fit_2x)                                  |            |
 
 
 <h3 id="-os"> 🎛️ Operating System </h3>
