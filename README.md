@@ -62,9 +62,6 @@
 | Jinja       | ![Jinja](https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black)                                  |            |
 | VS Code     | ![VS code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) |            |
 
-
-
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lomovtsevp&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=lomovtsevp)](https://github.com/ryo-ma/github-profile-trophy)
