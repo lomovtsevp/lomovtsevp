@@ -18,7 +18,7 @@
 | TensorFlow   | ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)        |            |
 | NLTK         | ![NLTK](https://www.educba.com/academy/wp-content/uploads/2019/08/NLTK.png)                                                     |            |
 | AirFlow      | ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)|           |
-| XGBoost      | ![XGBoost](https://i.ytimg.com/vi/05djBSOs1FA/hqdefault.jpg)                                                                    |            |
+| XGBoost      | ![XGBoost](https://upload.wikimedia.org/wikipedia/commons/6/69/XGBoost_logo.png?20190625122704)                                                                    |            |
 | CatBoost     | ![CatBoost](https://avatars.mds.yandex.net/get-entity_search/5503081/551872784/S122x122Fit_2x)                                  |            |
 
 
