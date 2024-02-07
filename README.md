@@ -33,35 +33,35 @@
 
 | STACK     | LOGO                                                                                                         | EXPERIENCE |
 |-----------|--------------------------------------------------------------------------------------------------------------|------------|
-| GitLab CI | ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) |            |
-| Docker    | ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) |            |
+| GitLab CI | ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) | Использование CI/CD для Web-приложения на Flask + Docker.              |
+| Docker    | ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) | Использование Docker для контейнеризации своего Web-приложения и дальнейший деплой в продакшн. Уверенное владение Docker-compose.            |
 
 <h3 id="-git"> 🕓 Version Control </h3>
 
 | STACK  | LOGO                                                                                                         | EXPERIENCE |
 |--------|--------------------------------------------------------------------------------------------------------------|------------|
-| Git    | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)          |            |
-| GitHub | ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) |            |
-| GitLab | ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) |            |
+| Git    | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)          | Постоянный контроль версий для любого приложения, кода или проекта. Уверенное владение командами Git.           |
+| GitHub | ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) | Использование GitHub для ведения личных репозиториев с 2020 года.            |
+| GitLab | ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) | Использование GitLab для рабочих проектов совместно с Docker (для Registry) и командной разработки.           |
 
 <h3 id="-db"> 💾 Databases </h3>
 
 | STACK    | LOGO                                                                                                                 | EXPERIENCE |
 |----------|----------------------------------------------------------------------------------------------------------------------|------------|
-| MySQL    | ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)               |            |
-| Postgres | ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) |            |
+| MySQL    | ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)               | Учебный опыт формирования БД,  запросов join, триггеров, оконных функций, подзапросов, сортировки, фильтрации.            |
+| Postgres | ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) | Использование Postgres для университетского проекта по разработке приложения на PyQt5 (связывал БД со своим приложением и тянул оттуда данные для отображения).           |
 
 <h3 id="-db"> 🥅 Others </h3>
 
 | STACK       | LOGO                                                                                                                                   | EXPERIENCE |
 |-------------|----------------------------------------------------------------------------------------------------------------------------------------|------------|
-| Pure Python | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)                                 |            |
-| Flask       | ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)                                 |            |
-| HTML        | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)                              |            |
-| CSS         | ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)                                 |            |
-| JavaScript  | ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)           |            |
-| Jinja       | ![Jinja](https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black)                                  |            |
-| VS Code     | ![VS code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) |            |
+| Pure Python | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)                                 | Различный опыт, от применения алгоритмов и структур данных, файловой обработки/манипуляции с ними до реализации приложений, использование библиотек OS, itertools, setuptools, json и т.д.            |
+| Flask       | ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)                                 | Использование Flask для backend-части рабочего Web-приложения.           |
+| HTML        | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)                              | Использование HTML для frontend-части рабочего Web-приложения совместно с Jinja2           |
+| CSS         | ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)                                 |  Использование HTML для frontend-части рабочего Web-приложения с применением фреймворка TailWind CSS.          |
+| JavaScript  | ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)           | Использование JS в учебном проекте для конфигурации устройств IoT, а в рабочем проекте для обработки событий в браузере при взаимодействии клиент-сервер.           |
+| Jinja       | ![Jinja](https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black)                                  | Использование в рабочем проекте для интеграции Python-команд в HTML-код.           |
+| VS Code     | ![VS code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) | Предпочитаемая IDE для большинства рабочих задач.            |
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lomovtsevp&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
