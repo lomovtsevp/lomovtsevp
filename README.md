@@ -14,6 +14,8 @@
 | scikit-learn | ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) |            |
 | SciPy        | ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)                      |            |
 | TensorFlow   | ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)        |            |
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lomovtsevp&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=lomovtsevp)](https://github.com/ryo-ma/github-profile-trophy)
