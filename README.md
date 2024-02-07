@@ -25,9 +25,9 @@
 
 | STACK        | LOGO                                                                                                                       | EXPERIENCE |
 |--------------|----------------------------------------------------------------------------------------------------------------------------|------------|
-| Ubuntu       | ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)                      |            |
-| Windows      | ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)                   |            |
-| Shell Script | ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) |            |
+| Ubuntu       | ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)                      | Уверенное владение командами ОС, возможность взаимодействовать со сторонними сервисами через консоль. Приоритетная ОС для меня в плане разработки и ML/DL.           |
+| Windows      | ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)                   | Знание основных команд PowerShell на уровне обучения.           |
+| Shell Script | ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) | Использование bash-скриптов для автоматизации процессов и применения консольных-утилит (например, применение утилит для обработки pst-файлов и последующего извлечения вложений почты).           |
 
 <h3 id="-ci"> 🔬 CI/CD + Deployment </h3>
 
