@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=1000&lines=Welcome+to+my+dev-page!+I'm+Pavel+-+DS+and+ML+specialist)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9231F7&random=false&width=475&lines=Here's+is+my+stack+sorted+by+relevancy)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9231F7&random=false&width=650&lines=Here's+is+my+stack+sorted+by+relevancy)](https://git.io/typing-svg)
 
 | STACK        | LOGO                                                                                                                            | EXPERIENCE |
 |--------------|---------------------------------------------------------------------------------------------------------------------------------|------------|
