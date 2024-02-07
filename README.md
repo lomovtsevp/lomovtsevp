@@ -1,1 +1,1 @@
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lomovtsevp&theme=dark)
+[![trophy](https://github-profile-trophy.vercel.app/?username=lomovtsevp)](https://github.com/ryo-ma/github-profile-trophy)
