@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=1000&lines=Welcome+to+my+dev-page!+I'm+Pavel+-+DS+and+ML+specialist!)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7228F&random=false&width=435&lines=%D0%A1%D0%B5%D0%B9%D1%87%D0%B0%D1%81+%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%D1%8E+%D0%BD%D0%B0%D0%B4+Kaggle-%D1%81%D0%BE%D1%80%D0%B5%D0%B2%D0%BD%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%D0%BC)]
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7228F&random=false&width=650&lines=%D0%A1%D0%B5%D0%B9%D1%87%D0%B0%D1%81+%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%D1%8E+%D0%BD%D0%B0%D0%B4+Kaggle-%D1%81%D0%BE%D1%80%D0%B5%D0%B2%D0%BD%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%D0%BC+PII-Detection)](https://git.io/typing-svg)
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9231F7&random=false&width=650&lines=Here's+is+my+stack+sorted+by+relevancy)(https://git.io/typing-svg)
 
