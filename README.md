@@ -6,7 +6,7 @@
 
 | STACK        | LOGO                                                                                                                            | EXPERIENCE |
 |--------------|---------------------------------------------------------------------------------------------------------------------------------|------------|
-| Keras        | ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)                       | Обучение моделей как самостоятельно построенных, так и предобученных (BERT, xlm-roBERTa, мониторинг обучения с помощью коллбэков, использование TensorBoard в задачах NLP (классификация документов, задача NER).             |
+| Keras        | ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)                       | Обучение моделей как самостоятельно построенных, так и предобученных #(BERT, xlm-roBERTa), мониторинг обучения с помощью коллбэков, использование TensorBoard в задачах NLP (классификация документов, задача NER).             |
 | Matplotlib   | ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)        | Использование библиотеки для визуализации данных и EDA            |
 | mlflow       | ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue)                      |            |
 | NumPy        | ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)                       |            |
