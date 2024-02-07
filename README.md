@@ -17,6 +17,8 @@
 | SciPy        | ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)                      |            |
 | TensorFlow   | ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)        |            |
 | NLTK         | ![NLTK](https://www.educba.com/academy/wp-content/uploads/2019/08/NLTK.png)                                                     |            |
+| SpaCy         | ![SpaCy]([https://i.pinimg.com/originals/b0/7f/21/b07f21f036ac3152fd1e5cbda7c2c4cc.png)]                                       |            |
+
 
 <h3 id="-os"> 🎛️ Operating System </h3>
 
