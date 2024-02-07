@@ -50,7 +50,7 @@
 | MySQL    | ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)               |            |
 | Postgres | ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) |            |
 
-<h3 id="-db">  Others </h3>
+<h3 id="-db"> 🥅 Others </h3>
 
 | STACK       | LOGO                                                                                                                                   | EXPERIENCE |
 |-------------|----------------------------------------------------------------------------------------------------------------------------------------|------------|
