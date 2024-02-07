@@ -17,6 +17,15 @@
 | SciPy        | ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)                      |            |
 | TensorFlow   | ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)        |            |
 
+<h3 id="-os"> 🎛️ Operating System </h3>
+
+| STACK        | LOGO                                                                                                                       | EXPERIENCE |
+|--------------|----------------------------------------------------------------------------------------------------------------------------|------------|
+| Ubuntu       | ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)                      |            |
+| Windows      | ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)                   |            |
+| Shell Script | ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) |            |
+
+<h3 id="-os"> 🎛️ CI/CD </h3>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lomovtsevp&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
