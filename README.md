@@ -16,6 +16,7 @@
 | scikit-learn | ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) |            |
 | SciPy        | ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)                      |            |
 | TensorFlow   | ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)        |            |
+| NLTK         | ![NLTK](https://www.educba.com/academy/wp-content/uploads/2019/08/NLTK.png)                                                     |            |
 
 <h3 id="-os"> 🎛️ Operating System </h3>
 
@@ -25,7 +26,33 @@
 | Windows      | ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)                   |            |
 | Shell Script | ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) |            |
 
-<h3 id="-os"> 🎛️ CI/CD </h3>
+<h3 id="-ci"> 🔬 CI/CD + Deployment </h3>
+
+| STACK     | LOGO                                                                                                         | EXPERIENCE |
+|-----------|--------------------------------------------------------------------------------------------------------------|------------|
+| GitLab CI | ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) |            |
+| Docker    | ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) |            |
+
+<h3 id="-git"> 🕓 Version Control </h3>
+
+| STACK  | LOGO                                                                                                         | EXPERIENCE |
+|--------|--------------------------------------------------------------------------------------------------------------|------------|
+| Git    | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)          |            |
+| GitHub | ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) |            |
+| GitLab | ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) |            |
+
+<h3 id="-db"> 💾 Databases </h3>
+
+| STACK    | LOGO                                                                                                                 | EXPERIENCE |
+|----------|----------------------------------------------------------------------------------------------------------------------|------------|
+| MySQL    | ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)               |            |
+| Postgres | ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) |            |
+
+<h3 id="-db">  Others </h3>
+
+
+
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lomovtsevp&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
